@@ -2,14 +2,14 @@
 ### Project Title: Sales Data
 ---
 
-[Project Overview](#project-overview)
-[Data Sources](#data-sources)
-[Tools Used](#tools-used)
-[Data Cleaning and Preparation](#data-cleaning-and-preparations)
-[Exploratory Data Analysis](#exploratory-data-analysis)
-[Data Analysis](#data-analysis)
-[Results](#results)
-[Recommendations](#recommendations)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 ### Project Overview 
 ---
