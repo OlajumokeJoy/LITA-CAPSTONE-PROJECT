@@ -1,2 +1,28 @@
 # LITA-CAPSTONE-PROJECT
-This is my documentation of my Data Analytics Capstone Project with the Incubator Hub
+### Project Title 
+---
+
+### Project Overview 
+---
+
+### Data Sources
+---
+
+### Tools Used
+---
+
+### Data Cleaning and Preparation 
+---
+
+### Explanatory Data Analysis 
+---
+
+### Data Analysis 
+---
+
+### Results 
+---
+
+### Recommendations 
+---
+###
