@@ -42,6 +42,9 @@ Data cleaning was performed at the initial phase of the analysis. It was carried
  2. Removing duplicate data
  3. Formating and cleaning
 
+![1730829942831831312448531670944](https://github.com/user-attachments/assets/e7b27e04-63f1-4a79-8104-af4a6cc1ca28)
+
+
 ### Exploratory Data Analysis 
 ---
 To ensure a detailed analysis, the following questions were explored
