@@ -50,6 +50,41 @@ To ensure a detailed analysis, the following questions were explored
 
 ### Data Analysis 
 ---
+The following SQL queries were performed on the data file.
+
+```
+SELECT 
+    Product, 
+    SUM(Quantity * UnitPrice) AS TotalSales 
+FROM 
+    SalesData 
+GROUP BY 
+    Product;
+```
+
+```
+SELECT 
+    Region, 
+    COUNT(OrderID) AS SalesTransactions 
+FROM 
+    SalesData 
+GROUP BY 
+    Region;
+```
+
+```
+SELECT 
+    Product, 
+    SUM(Quantity * UnitPrice) AS TotalSalesValue 
+FROM 
+    SalesData 
+GROUP BY 
+    Product 
+ORDER BY 
+    TotalSalesValue DESC 
+LIMIT 1;
+```
+
 ![17307906127052682545484678918572](https://github.com/user-attachments/assets/29334522-dae0-451a-b0e5-e0426fae4809)
 
 
@@ -62,6 +97,8 @@ To ensure a detailed analysis, the following questions were explored
 ![17307908222724532363609448051978](https://github.com/user-attachments/assets/e2e1b225-e94d-479f-af80-65d4a98e9741)
 
 
+![17308275811685179146070337456874](https://github.com/user-attachments/assets/3094aadd-b664-4ce9-855d-25e4e1cd0e80)
+
 ### Recommendations 
 ---
-###
+
