@@ -1,4 +1,5 @@
 # LITA-CAPSTONE-PROJECT 1
+
 ### Project Title: Sales Data
 ---
 
@@ -93,12 +94,12 @@ LIMIT 1;
  - The result revealed that the month of February has the highest sales in across both years. 
  - The south had the highest revenue over the 2 years.
  - The top 3 selling products include; Shoes, shirts and hats.
+ - A total of 6 different products were sold in the retail store
+ - The total quantity of products sold was 38,681
+ - The South region generated the highest percentage of revenue across the 2 years (44.2%)
    
 ![17307908222724532363609448051978](https://github.com/user-attachments/assets/e2e1b225-e94d-479f-af80-65d4a98e9741)
 
 
+
 ![17308275811685179146070337456874](https://github.com/user-attachments/assets/3094aadd-b664-4ce9-855d-25e4e1cd0e80)
-
-### Recommendations 
----
-
