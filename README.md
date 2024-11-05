@@ -53,10 +53,12 @@ To ensure a detailed analysis, the following questions were explored
 ![17307906127052682545484678918572](https://github.com/user-attachments/assets/29334522-dae0-451a-b0e5-e0426fae4809)
 
 
-
 ### Results 
 ---
-
+ - The result revealed that the month of February has the highest sales in across both years. 
+ - The south had the highest revenue over the 2 years.
+ - The top 3 selling products include; Shoes, shirts and hats.
+   
 ![17307908222724532363609448051978](https://github.com/user-attachments/assets/e2e1b225-e94d-479f-af80-65d4a98e9741)
 
 
