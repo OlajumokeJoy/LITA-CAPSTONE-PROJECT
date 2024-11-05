@@ -57,6 +57,9 @@ To ensure a detailed analysis, the following questions were explored
 ### Results 
 ---
 
+![17307908222724532363609448051978](https://github.com/user-attachments/assets/e2e1b225-e94d-479f-af80-65d4a98e9741)
+
+
 ### Recommendations 
 ---
 ###
