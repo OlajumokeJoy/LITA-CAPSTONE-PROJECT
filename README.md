@@ -50,6 +50,9 @@ To ensure a detailed analysis, the following questions were explored
 
 ### Data Analysis 
 ---
+![17307906127052682545484678918572](https://github.com/user-attachments/assets/29334522-dae0-451a-b0e5-e0426fae4809)
+
+
 
 ### Results 
 ---
