@@ -13,6 +13,7 @@
 
 ### Project Overview 
 ---
+This project aims to analyze the sales performance of a retail store. It aims to achieve this through the exploration of  sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. 
 
 ### Data Sources
 ---
@@ -35,9 +36,17 @@ Excel file
 
 ### Data Cleaning and Preparation 
 ---
+Data cleaning was performed at the initial phase of the analysis. It was carried out using the Microsoft Excel. The actions included;
+ 1. Data loading and inspection
+ 2. Removing duplicate data
+ 3. Formating and cleaning
 
 ### Exploratory Data Analysis 
 ---
+To ensure a detailed analysis, the following questions were explored
+ 1. What is the total sales by product, region and month?
+ 2. What is the average sales by product?
+ 3. The top 3 selling product by total sales value
 
 ### Data Analysis 
 ---
